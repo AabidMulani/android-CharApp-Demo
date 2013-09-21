@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/newchat_menu" android:title="NEW CHAT"></item>
+    <item android:id="@+id/exit_menu" android:title="EXIT"></item>
+    
+
+</menu>
